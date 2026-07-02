@@ -8,6 +8,8 @@ The preferred model is ARDL(0,1,0), selected using BIC, retaining external debt 
 
 https://kenya-fiscal-monetary-nexus-6ofxjdn85me5a8ia6vpgbi.streamlit.app/
 
+![Long run inflation path](assets/long_run_path.png)
+
 ## Research Question
 
 Does Kenya's public debt have a measurable long run relationship with inflation, and if so, through which channel does that relationship operate?
